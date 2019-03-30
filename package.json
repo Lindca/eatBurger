@@ -17,5 +17,13 @@
     "handlebars-helper-css": "^0.1.0"
   },
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lindca/eatBurger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lindca/eatBurger/issues"
+  },
+  "homepage": "https://github.com/Lindca/eatBurger#readme",
   "description": ""
 }
