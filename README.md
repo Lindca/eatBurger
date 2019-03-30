@@ -1,21 +1,21 @@
 # eatBurger
 
-This program is an app that helps you find concerts, movies and music. In a very easy to use format and your user friendly terminal. Please see the "Getting Started" section to see what different commands you can use and how to search. This was created for a UC Davis Continuing and Professional Education assignment. I really enjoyed the process of learning node and understanding the different new concepts.  
+This program is an app that keeps track of burgers that are eaten and made and also lets you add more to the database, this is a very basic representation of a express server interacting with a database and can be used for just about anything by changing just a couple things.
 
 ## Getting Started:
-Clone my repository to your computer and open ypour terminal then enter in "node liri.js" then a search type of your choosing based on what you want to search for. The syntax is as follows: "node liri.js 'search type' 'keyword'". Your search options are "spotify-this-song"  to search for songs, "conert-this" to search for concerts, and "movie-this" to search for movies. You can also enter "do-what-it-says" as the search type to run the random.txt file and have it run whatever command is listed in that file.
+Open the heroku link and add burgers to eat or delete them using the buttons and form input.
 
 ## Prerequisites:
-You need node installed on your computer.
+Internet connection and browser.
 
 ## Download:
-You should be able to run my program just by downloading the files given.
+No downloads necessary.
 
 ## Built With:
 * node.js - for executing JavaScript code server-side
 * Jquery - The js framework used for client side info
 * AJAX - used to fetch info from the API
-* MySQL - database used
+* MySQL - database managing system used
 * ORM - used for queries to the database
 * express - server-side configuration
 * express-handlebars - view engine used
@@ -26,13 +26,8 @@ Lindsay Campbell - All content - Freelance Developer
 
 ## Images:
 ### spotify-this-song
-![spotify-this-song](/images/spotify.png)
-### concert-this
-![concert-this](/images/concert.png)
-### movie-this
-![movie-this](/images/movie.png)
-### do-what-it-says
-![do-what-it-says](/images/dowhat.png)
+![webpage-image](./public/assets/images/screenshot.jpg)
+
 
 
 
