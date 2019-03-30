@@ -5,6 +5,9 @@ This program is an app that keeps track of burgers that are eaten and made and a
 ## Getting Started:
 Open the heroku link and add burgers to eat or delete them using the buttons and form input.
 
+## Heroku
+[Link to Deployment](https://morning-shore-31608.herokuapp.com)
+
 ## Prerequisites:
 Internet connection and browser.
 
@@ -20,12 +23,13 @@ No downloads necessary.
 * express - server-side configuration
 * express-handlebars - view engine used
 * HTML/CSS - client-side formatting of text
+* Heroku - Used for deployment of applicaton
 
 ## Authors:
 Lindsay Campbell - All content - Freelance Developer
 
 ## Images:
-### spotify-this-song
+### Deployment Image
 ![webpage-image](./public/assets/images/screenshot.jpg)
 
 
